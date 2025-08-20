@@ -29,7 +29,7 @@ accounts:
   message: "welcome to accounts microservice apis"
   contactDetails:
     name: "komal jaiswal"
-    email: "jaiswalkomal18@gmail.com"
+    email: "{cipher}948f906ea7aa3951634f85694a74c855c7bed5eafc747f3ee828362e995280c0e65e3beec84092ed653f6e006fa67a78"
   onCallSupport:
     -(555)555-1234
     -(555)523-1234
