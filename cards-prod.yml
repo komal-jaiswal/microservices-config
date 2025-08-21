@@ -1,7 +1,7 @@
 build:
   version: 1.0.0
 cards:
-  message: "Welcome to cards microservice api - prod"
+  message: "Welcome to cards microservice api - production"
   contactDetails:
     name: "Moazzam khan - Manager"
     email: "moazzam@gmail.com"
