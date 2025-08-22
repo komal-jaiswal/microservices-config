@@ -7,9 +7,9 @@ build:
   version: "1.0.0"
 
 accounts:
-  message: "welcome to accounts production microservice apis"
+  message: "welcome to accounts prod microservice apis"
   contactDetails:
-    name: "Moazzam Khan - product owner"
+    name: "Moazzam Khan - Product Manager"
     email: "moazzam@gmail.com"
   onCallSupport:
     -(555)555-1234
